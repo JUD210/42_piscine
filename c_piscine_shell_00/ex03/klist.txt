@@ -1,0 +1,5 @@
+Credentials cache: API:0FD96C60-AFFA-4E97-B898-E05EE7238D9D
+        Principal: hmin@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jan 20 21:52:01 2020  Jan 21 07:51:58 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
