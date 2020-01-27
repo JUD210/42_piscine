@@ -1,0 +1,29 @@
+0000000000000000000000000000000000000000 dfbded742ed30c19138f6bd0b521de0c91454dbd Hyuk Min <hmin@c1r5s6.42seoul.kr> 1579831069 +0900	commit (initial): Initial commit
+dfbded742ed30c19138f6bd0b521de0c91454dbd 5fc6281abbf9e98391b3a2f07c674e7d2d7ec14d Hyuk Min <hmin@c1r5s6.42seoul.kr> 1579831104 +0900	commit: Initial commit
+5fc6281abbf9e98391b3a2f07c674e7d2d7ec14d dfbded742ed30c19138f6bd0b521de0c91454dbd Hyuk Min <hmin@c1r5s6.42seoul.kr> 1579831117 +0900	reset: moving to HEAD~1
+dfbded742ed30c19138f6bd0b521de0c91454dbd eea7c8f91741517afa2d3e9b27d0e482c8794561 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1579831184 +0900	commit: Delete> tp_init
+eea7c8f91741517afa2d3e9b27d0e482c8794561 eb15da394f46d36ba47434b01c518ccabd17e9f6 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1579843269 +0900	commit: Add> ex00> ft_putchar.c
+eb15da394f46d36ba47434b01c518ccabd17e9f6 eea7c8f91741517afa2d3e9b27d0e482c8794561 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1579843527 +0900	reset: moving to HEAD~1
+eea7c8f91741517afa2d3e9b27d0e482c8794561 eb15da394f46d36ba47434b01c518ccabd17e9f6 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1579843585 +0900	reset: moving to eb15da3
+eb15da394f46d36ba47434b01c518ccabd17e9f6 8b5f85f3374d775e6aaa51584274b04259fae696 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1579933121 +0900	commit: Add> ex01> ft_print_alphabet.c
+8b5f85f3374d775e6aaa51584274b04259fae696 37e056a0551a890d3f0af3ca9aacdf01e9ded5de Hyuk Min <hmin@c1r5s6.42seoul.kr> 1579934563 +0900	commit (amend): Add> ex01> ft_print_alphabet.c
+37e056a0551a890d3f0af3ca9aacdf01e9ded5de 2138fbaf4304d44f2735d09ec8397a7ce08b0c94 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1579947318 +0900	commit: Add> ex02> ft_print_numbers.c
+2138fbaf4304d44f2735d09ec8397a7ce08b0c94 5564e05d36ec5b6ceda723ab0b5f0ebccdc07afb Hyuk Min <hmin@c1r5s6.42seoul.kr> 1579947348 +0900	commit (amend): Add> ex02> ft_print_reverse_alphabet.c
+5564e05d36ec5b6ceda723ab0b5f0ebccdc07afb 414ed2e5538dad9b564a993567acdc66c4303963 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1579950337 +0900	commit: Add> ex03> ft_print_numbers.c
+414ed2e5538dad9b564a993567acdc66c4303963 c2723e8a937c9cf30bf4001bbbb31e281f32c753 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1579958946 +0900	commit: Add> ex04> ft_is_negative.c
+c2723e8a937c9cf30bf4001bbbb31e281f32c753 8a23533cd49a2731a7898914fbfbef919a8feebe Hyuk Min <hmin@c1r5s6.42seoul.kr> 1579958987 +0900	commit: Add> ex05> ft_print_comb.c
+8a23533cd49a2731a7898914fbfbef919a8feebe 7bfe52e459f76503ba62be07e0b792f5003926cc Hyuk Min <hmin@c1r5s6.42seoul.kr> 1579959555 +0900	commit (amend): Add> ex05> ft_print_comb.c
+7bfe52e459f76503ba62be07e0b792f5003926cc f82d4f913ed1ca3898599096920feeeacd9d2684 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580002495 +0900	commit (amend): Add> ex05> ft_print_comb.c
+f82d4f913ed1ca3898599096920feeeacd9d2684 5d7f2c3b25c28270dcd2a549e72ca945c0a3756d Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580008838 +0900	commit: Add> ex06> ft_print_comb2.c
+5d7f2c3b25c28270dcd2a549e72ca945c0a3756d 5c730136dba16f521605218d18ae505382966f10 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580013536 +0900	commit: Edit> ex06> ft_print_comb2.c> cat -e catches \b
+5c730136dba16f521605218d18ae505382966f10 512c851b82eb6381f4ebd343e7da2e787a654cb0 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580014522 +0900	commit: Edit> ex06> ft_print_comb2.c> uncomment
+512c851b82eb6381f4ebd343e7da2e787a654cb0 ca5786bf8c6bacf8310cff7c8b0209072dcc6ff4 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580019062 +0900	commit: Edit> ex06> ft_print_comb2.c> no ':' ... damn
+ca5786bf8c6bacf8310cff7c8b0209072dcc6ff4 57d181430c0a6cb5b556b97e807d51abf2f89879 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580022342 +0900	commit: Edit> ex04> ft_is_negative.c> It is not the 'Y'es or 'N'o...
+57d181430c0a6cb5b556b97e807d51abf2f89879 33cb90ebe4bfae5c6cd98a2dbf34c854b517c202 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580087121 +0900	commit (amend): Edit> ex04> ft_is_negative.c> It is not the 'Y'es or 'N'o...
+33cb90ebe4bfae5c6cd98a2dbf34c854b517c202 115ab26b43b7c890741d014ab88071d82c22fd8f Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580093829 +0900	commit: Add> ex07> ft_putnbr
+115ab26b43b7c890741d014ab88071d82c22fd8f bc9bf1812f4303c8a50389090008f689f54e2791 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580093891 +0900	commit (amend): Add> ex07> ft_putnbr.c
+bc9bf1812f4303c8a50389090008f689f54e2791 620ab6bc740916f7c4c3f5aea30e99bb0efd0aa3 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580118132 +0900	commit: Add> ex08> commented answer for study
+620ab6bc740916f7c4c3f5aea30e99bb0efd0aa3 2cd4c50d6c40615e5875fa5c09a3b462782b8193 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580118723 +0900	commit (amend): Add> ex08> ft_print_combn.c (NEED REVIEW!!)
+2cd4c50d6c40615e5875fa5c09a3b462782b8193 69042f84a1473aee3c72c251afdd002e9ba1f81c Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580119107 +0900	commit (amend): Add> ex08> ft_print_combn.c (NEED REVIEW!!)
+69042f84a1473aee3c72c251afdd002e9ba1f81c f185fbbe146a54fd194e1af33a81b3d77532b773 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580119949 +0900	commit (amend): Add> ex08> ft_print_combn.c (NEED REVIEW!!)
+f185fbbe146a54fd194e1af33a81b3d77532b773 f55764bd2321acc00fe04a991a9ddc055ab98c28 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580119965 +0900	commit (amend): Add> ex08> ft_print_combn.c (NEED SOLUTION REVIEW)

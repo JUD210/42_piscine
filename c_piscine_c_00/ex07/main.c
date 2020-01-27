@@ -1,24 +1,28 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_is_negative.c                                   :+:      :+:    :+:   */
+/*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: hmin <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/01/25 20:07:23 by hmin              #+#    #+#             */
-/*   Updated: 2020/01/27 10:02:20 by hmin             ###   ########.fr       */
+/*   Created: 2020/01/25 20:07:24 by hmin              #+#    #+#             */
+/*   Updated: 2020/01/27 11:53:45 by hmin             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
+#include <stdio.h>
 
-void	ft_is_negative(int n)
+extern	void	ft_putnbr(int nb);
+
+int				main(void)
 {
-	char ch_result;
-
-	if (n < 0)
-		ch_result = 'N';
-	else
-		ch_result = 'P';
-	write(1, &ch_result, 1);
+	ft_putnbr(12345);
+	printf("\n");
+	ft_putnbr(-12345);
+	printf("\n");
+	ft_putnbr(2147483647);
+	printf("\n");
+	ft_putnbr(-2147483648);
+	printf("\n");
+	return (0);
 }

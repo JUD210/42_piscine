@@ -1,24 +1,19 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_is_negative.c                                   :+:      :+:    :+:   */
+/*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: hmin <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/01/25 20:07:23 by hmin              #+#    #+#             */
-/*   Updated: 2020/01/27 10:02:20 by hmin             ###   ########.fr       */
+/*   Created: 2020/01/25 19:26:36 by hmin              #+#    #+#             */
+/*   Updated: 2020/01/25 19:59:57 by hmin             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
+extern	void	ft_print_numbers(void);
 
-void	ft_is_negative(int n)
+int				main(void)
 {
-	char ch_result;
-
-	if (n < 0)
-		ch_result = 'N';
-	else
-		ch_result = 'P';
-	write(1, &ch_result, 1);
+	ft_print_numbers();
+	return (0);
 }
