@@ -5,6 +5,8 @@
 	logallrefupdates = true
 	ignorecase = true
 	precomposeunicode = true
+[submodule]
+	active = .
 [remote "origin"]
 	url = git@vogsphere.42seoul.kr:vogsphere/intra-uuid-f33172bd-1aa1-4c4b-8d04-0c618918904f-3050513
 	fetch = +refs/heads/*:refs/remotes/origin/*
