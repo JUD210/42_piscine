@@ -1,0 +1,24 @@
+0000000000000000000000000000000000000000 a52353cc87ce17738c9067ad4a85534f7debe499 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580120168 +0900	commit (initial): Initial commit
+a52353cc87ce17738c9067ad4a85534f7debe499 9ab014547e505d4331a5371f8fb7077a1fd55c19 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580120206 +0900	commit: Delete> tmp
+9ab014547e505d4331a5371f8fb7077a1fd55c19 02ac9b18589a88deea6af8d8564c349f141426ba Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580132407 +0900	commit: Add> ex00> ft_strcpy
+02ac9b18589a88deea6af8d8564c349f141426ba a05b0b085e8c44874476bd36e5d7ee53c643f6ac Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580134727 +0900	commit: Add> ex01> ft_strncpy
+a05b0b085e8c44874476bd36e5d7ee53c643f6ac 794f765f5d614302f0b5bad45e9da7232bf2fede Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580172393 +0900	commit (amend): Add> ex01> ft_strncpy
+794f765f5d614302f0b5bad45e9da7232bf2fede d4a2ef8eec3da70bad764048e1b86cd2ceb2048b Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580173561 +0900	commit: Add> ex02> ft_str_is_alpha.c
+d4a2ef8eec3da70bad764048e1b86cd2ceb2048b d6e3b68559b1964f6c35abc0bfb79c88c18e9c80 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580173848 +0900	rebase -i (finish): refs/heads/master onto 9ab014547e505d4331a5371f8fb7077a1fd55c19
+d6e3b68559b1964f6c35abc0bfb79c88c18e9c80 a2702c252b5b39a5dd0fcd6cf16c8f1d6f7e03e4 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580175794 +0900	commit: Add> ex03> ft_str_is_numeric.c
+a2702c252b5b39a5dd0fcd6cf16c8f1d6f7e03e4 65aa0007a22cd75b26205939969b85847a40197e Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580182686 +0900	commit: Edit> ex03> ft_str_is_numeric.c> add while for '\0's
+65aa0007a22cd75b26205939969b85847a40197e 7b1cee670b62629ad18d059d7332f11a538a04f1 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580182975 +0900	commit: Add> ex04> ft_str_is_lowercase.c
+7b1cee670b62629ad18d059d7332f11a538a04f1 fabbdfc50b93073b6cdb732feb2d20f372286905 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580183521 +0900	commit: Add> ex05> ft_str_is_uppercase.c
+fabbdfc50b93073b6cdb732feb2d20f372286905 75f0ccb3cf2c10d2249cbdfcb2e2bb963c84fd6c Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580185340 +0900	commit: Add> ex06> ft_str_is_printable.c
+75f0ccb3cf2c10d2249cbdfcb2e2bb963c84fd6c 1c64b9c37c03c1b7ebee9437011044cc8677fcc4 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580185348 +0900	commit (amend): Add> ex06> ft_str_is_printable.c
+1c64b9c37c03c1b7ebee9437011044cc8677fcc4 134aa90b371d541ba068d9a41168af276e4c2e09 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580185682 +0900	commit: Edit> ex03,04,05> refactor condition
+134aa90b371d541ba068d9a41168af276e4c2e09 d0fdc11fba8e5a562a627a42654ac23d4651702c Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580185815 +0900	commit (amend): Edit> ex03,04,05> refactor condition
+d0fdc11fba8e5a562a627a42654ac23d4651702c d53b7a42b3d4bbaa4eef4485188efdbcd3c271b1 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580186650 +0900	commit: Add> ex07> ft_strupcase.c
+d53b7a42b3d4bbaa4eef4485188efdbcd3c271b1 1128970bf451e572672efb7dcacc7d4857166d18 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580187714 +0900	commit (amend): Add> ex07> ft_strupcase.c
+1128970bf451e572672efb7dcacc7d4857166d18 0330150e69ee6e72604b48c0b13c27f5e49aadc9 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580188341 +0900	commit: Add> ex08> ft_stlowcase.c
+0330150e69ee6e72604b48c0b13c27f5e49aadc9 9b6b57cfdbac1e2568a7e1fc22511435cbc070e2 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580188661 +0900	commit: Edit> ex02,03> refactor condition
+9b6b57cfdbac1e2568a7e1fc22511435cbc070e2 ef578436ba22534234e6f94c27cff73fdd49d121 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580198480 +0900	commit: Add> ex09> ft_strcapitalize.c
+ef578436ba22534234e6f94c27cff73fdd49d121 c9ad79a9cb7271ec72638d38eee37d6a36f515de Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580201836 +0900	commit: Edit> ex06> refactor condition
+c9ad79a9cb7271ec72638d38eee37d6a36f515de 6f7dfc242aa2a426299b7e432c2e2bccfc838d59 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580218151 +0900	commit: Add> ex10> ft_strlcpy.c
+6f7dfc242aa2a426299b7e432c2e2bccfc838d59 4741bb967df7a6a612da53b762d33e1a1a447d94 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580253275 +0900	commit: Edit> ex10> i-1 to i
+4741bb967df7a6a612da53b762d33e1a1a447d94 9cd7365f818303066fda078571fa7d048e78ca3c Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580254639 +0900	commit (amend): Edit> ex10> i=1 to i=0

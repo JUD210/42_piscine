@@ -1,0 +1,14 @@
+Edit> ex10> i=1 to i=0
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Wed Jan 29 08:14:35 2020 +0900
+#
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   ex10/ft_strlcpy.c
+#
