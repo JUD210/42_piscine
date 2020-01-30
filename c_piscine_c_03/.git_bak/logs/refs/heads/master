@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 d893a9f2dc7e297bc809008f3f60c701e74e4b46 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580279583 +0900	commit (initial): Initial commit
+d893a9f2dc7e297bc809008f3f60c701e74e4b46 5403a1e85062c2513d615720f0e1fcf5571fdcc6 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580279607 +0900	commit: Delete> temp
+5403a1e85062c2513d615720f0e1fcf5571fdcc6 2061c646a02240e52d437c68cefca1f5b4bb7ab3 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580292540 +0900	commit: Add> ex00> ft_strcmp.c
+2061c646a02240e52d437c68cefca1f5b4bb7ab3 d5db177795228865a7d75287d25f554c69d50ae4 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580296070 +0900	commit: Add> ex01> ft_strncmp.c
+d5db177795228865a7d75287d25f554c69d50ae4 5f334cb8cc2c8b77eb89b2718e5bc83617b5fd46 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580298455 +0900	commit: Add> ex02> ft_strcat.c
+5f334cb8cc2c8b77eb89b2718e5bc83617b5fd46 d02806a0bfd232f662d1f3733cf95851eff88eda Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580299289 +0900	commit: Add> ex03> ft_strncat.c
+d02806a0bfd232f662d1f3733cf95851eff88eda 0c65d3eb335d48e314ffbe8897f5efa58238d570 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580305846 +0900	commit: Add> ex04> ft_strstr.c
+0c65d3eb335d48e314ffbe8897f5efa58238d570 6995b147a57d809855c2e5bff31d3d94adf12353 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580363249 +0900	commit: Add> ex05> ft_strlcat.c
+6995b147a57d809855c2e5bff31d3d94adf12353 a7294513475370eced1b2bd2ba5135a0626cee75 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580363392 +0900	commit: Edit> ex03> int i, j -> unsigned int
