@@ -6,7 +6,7 @@
 /*   By: hmin <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/29 17:10:36 by hmin              #+#    #+#             */
-/*   Updated: 2020/01/29 19:01:19 by hmin             ###   ########.fr       */
+/*   Updated: 2020/01/30 16:39:17 by hmin             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,6 +39,7 @@ int	main(void)
 {
 	char	*str1;
 	char	*str2;
+	char	str3[] = {0xff};
 
 	system("clear");
 	printf("===== [Exercise 00] 테스트 =====\n\n");
@@ -47,6 +48,9 @@ int	main(void)
 
 	divider(80, '=');
 
+	str2 = "42 SEOUL";
+	pr(str3, str2);
+	
 	str1 = "42 SEOUL";
 	str2 = "42 SEOUL";
 	pr(str1, str2);

@@ -6,7 +6,7 @@
 /*   By: hmin <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/29 19:12:18 by hmin              #+#    #+#             */
-/*   Updated: 2020/01/29 20:06:34 by hmin             ###   ########.fr       */
+/*   Updated: 2020/01/30 19:11:32 by hmin             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -46,11 +46,16 @@ int	main(void)
 {
 	char	*str1;
 	char	*str2;
+	char	str3[] = {0xff};
 
 	system("clear");
 	printf("===== [Exercise 01] 테스트 =====\n\n");
 	printf("%-25s | %-25s | %-4s || %-10s | %-10s\n", "str1", "str2", "n", "ft_strncmp", "strncmp");
 	print_divider(80);
+	
+	str2 = "";
+	pr(str3, str2, 3);
+	print_divider(80);
 
 	str1 = "";
 	str2 = "";
@@ -58,15 +63,25 @@ int	main(void)
 	print_divider(80);
 
 	str1 = "";
-	str1 = "42 Seoul";
-	pr(str1, str2, 5);
+	str2 = "42 Seoul";
+	pr(str1, str2, 15);
 	print_divider(80);
 
 	str1 = "42 Seoul";
 	str2 = "";
 	pr(str1, str2, 3);
 	print_divider(80);
+	
+	str1 = "42 Seoul";
+	str2 = "42 Seoul";
+	pr(str1, str2, 10);
+	print_divider(80);
 
+	str1 = "42 Seoul";
+	str2 = "42 Seoul";
+	pr(str1, str2, 0);
+	print_divider(80);
+	
 	str1 = "Hi! World!";
 	str2 = "Hi! 42 Seoul!";
 	pr(str1, str2, 6);
