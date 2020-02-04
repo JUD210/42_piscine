@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 bdfdede5e1bb435981633d1a01c43b59678f04c7 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580436937 +0900	commit (initial): Initial commit
+bdfdede5e1bb435981633d1a01c43b59678f04c7 8ce76ce748e9a970ea16c0f61a1b4f3b247b7f71 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580437182 +0900	commit: Delete> temp
+8ce76ce748e9a970ea16c0f61a1b4f3b247b7f71 6654c616264b2ad957c71ecad1d3c450b9549744 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580437193 +0900	commit (amend): Delete> temp file
+6654c616264b2ad957c71ecad1d3c450b9549744 291050f276f9ef3972c009acffc4d1cec1056421 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580437880 +0900	commit: Add> ex00> ft_strlen.c
+291050f276f9ef3972c009acffc4d1cec1056421 a9d502f0d3e491d9c434ae8b4926b643e3c0edee Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580442885 +0900	commit: Add> ex01> ft_putstr.c
+a9d502f0d3e491d9c434ae8b4926b643e3c0edee 34616a8a70947c5e5f6f6c8a66a3e2aae43cba27 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580448106 +0900	commit: Add> ex02> ft_putnbr.c (Review string pointer)
+34616a8a70947c5e5f6f6c8a66a3e2aae43cba27 20f9cf04b79f9224d565ed55c698019caefcea46 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580448110 +0900	commit (amend): Add> ex02> ft_putnbr.c (A review of string)
+20f9cf04b79f9224d565ed55c698019caefcea46 552cc73cf779d45595a526f38834af681b1f5f87 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580449867 +0900	commit (amend): Add> ex02> ft_putnbr.c (A review of string)
+552cc73cf779d45595a526f38834af681b1f5f87 8feedd056461d655af51c65127dc933bc7513780 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580450532 +0900	commit (amend): Add> ex02> ft_putnbr.c (A review of string)
+8feedd056461d655af51c65127dc933bc7513780 6749d78ed5fb0416f1c398c812fcd4e2b16ebab4 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580454787 +0900	commit: Add> ex00,01> commentary
+6749d78ed5fb0416f1c398c812fcd4e2b16ebab4 552ae66c44db7b42eb3f19d71f1521a64ed24f77 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580454792 +0900	commit (amend): Add> ex00,01> comment
+552ae66c44db7b42eb3f19d71f1521a64ed24f77 aa595d64275994a7a72b3bbb60c11e8d0a96aefa Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580455911 +0900	commit: Add> ex03> ft_atoi.c
+aa595d64275994a7a72b3bbb60c11e8d0a96aefa 6db58c1989f24efb55e7c56c2c23c84a148501b4 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580726542 +0900	commit: tmp
+6db58c1989f24efb55e7c56c2c23c84a148501b4 6a77c4184b2772a213147253235e515a4b81a18e Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580732310 +0900	commit: Add> ex04> ft_putnbr_base.c
+6a77c4184b2772a213147253235e515a4b81a18e 76ce6a3f41e82a10ed951947e1a333f0263bf315 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580732323 +0900	commit (amend): Add> ex04> ft_putnbr_base.c | main why isn't valid
+76ce6a3f41e82a10ed951947e1a333f0263bf315 5dfdee022c9b5e3467a8229a9c35fe0b06583bb3 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580732415 +0900	commit (amend): Add> ex04> ft_putnbr_base.c | main: why it isn't valid
+5dfdee022c9b5e3467a8229a9c35fe0b06583bb3 9940270b00960bbe1fcfb195b307206eb02ebf6a Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580732489 +0900	commit (amend): Add> ex04> ft_putnbr_base.c | main: why it isn't valid
+9940270b00960bbe1fcfb195b307206eb02ebf6a 2e747e07d9c61c7ce61b95d40e1af27fa2d803c5 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580735797 +0900	commit: Edit> ex04> No over 1000 index! It overflows stack domain (probably)
