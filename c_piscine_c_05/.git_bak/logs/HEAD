@@ -1,0 +1,21 @@
+0000000000000000000000000000000000000000 edd7c276451375f1078d930910b632cc7cce18a2 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580811597 +0900	commit (initial): Initial commit
+edd7c276451375f1078d930910b632cc7cce18a2 edd7c276451375f1078d930910b632cc7cce18a2 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580811624 +0900	reset: moving to HEAD
+edd7c276451375f1078d930910b632cc7cce18a2 a4587d6f5ec679e0fbf0a9944bd7852422ea95fe Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580811630 +0900	commit: Delete> tmp
+a4587d6f5ec679e0fbf0a9944bd7852422ea95fe 074ff9a51b47d4e9e5bba6df80654c9b828f6212 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580811650 +0900	commit: Add> ex00> ft_iterative_factorial.c
+074ff9a51b47d4e9e5bba6df80654c9b828f6212 0b4a2b96fb92fd25d0de612ec8bbd35345100721 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580811660 +0900	commit: Add> ex01> ft_recursive_factorial.c
+0b4a2b96fb92fd25d0de612ec8bbd35345100721 ac788a43893e258d5bf953c7ffd63f2bd308251b Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580811670 +0900	commit: Add> ex02> ft_iterative_power.c
+ac788a43893e258d5bf953c7ffd63f2bd308251b 5609654abc67acc3b59cd40fd0c292953bc4e87d Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580811679 +0900	commit: ft_recursive_power.c
+5609654abc67acc3b59cd40fd0c292953bc4e87d 6df704337ced45ec738d12b3cd12a39cf7d87e23 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580817690 +0900	commit: Add> ex04> ft_fibonacci.c
+6df704337ced45ec738d12b3cd12a39cf7d87e23 9a29ab87fb1e40352e92ccb0c1d71b9b043f7ef0 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580817700 +0900	commit: Add> ex05> ft_sqrt.c
+9a29ab87fb1e40352e92ccb0c1d71b9b043f7ef0 4522dc4058a39ce050a533019450310a4d2249ed Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580821316 +0900	commit: Edit> ex05> int -> unsigned int
+4522dc4058a39ce050a533019450310a4d2249ed 2849962d0f6f57c90491ae6a26a69c01613c4103 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580824920 +0900	commit (amend): Edit> ex05> int -> unsigned int
+2849962d0f6f57c90491ae6a26a69c01613c4103 a5f2cf49bc718511e7c8d7de5c4fdad8f292ba21 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580824942 +0900	commit: Add> ex06> ft_is_prime.c
+a5f2cf49bc718511e7c8d7de5c4fdad8f292ba21 2a490bdc1189b55c8b07f5f068e89e14e9f7b419 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580866849 +0900	commit: Edit> ex06> find_nearest_sqrt returns int -> unsigned int
+2a490bdc1189b55c8b07f5f068e89e14e9f7b419 2a490bdc1189b55c8b07f5f068e89e14e9f7b419 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580870072 +0900	reset: moving to HEAD
+2a490bdc1189b55c8b07f5f068e89e14e9f7b419 e636bca78320390136b093958aedeb9dc3f376a1 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580870098 +0900	commit: Edit> ex06> remove unnecessary condition
+e636bca78320390136b093958aedeb9dc3f376a1 6fb8259addbe137a26e426b24f817a90fd033ff2 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580870165 +0900	commit (amend): Edit> ex06> remove unnecessary condition
+6fb8259addbe137a26e426b24f817a90fd033ff2 49421a974307c6c8bedd7ce3158951e5df243bf6 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580870186 +0900	commit (amend): Edit> ex06> remove unnecessary condition
+49421a974307c6c8bedd7ce3158951e5df243bf6 7e03df65bd6e025c88e935bcdd5e4f482b3c0ded Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580870220 +0900	commit (amend): Edit> ex06> remove unnecessary condition
+7e03df65bd6e025c88e935bcdd5e4f482b3c0ded 9967a46b2b4785a667285df1ef4e97c0ffd60b0f Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580870256 +0900	commit (amend): Edit> ex06> remove unnecessary condition
+9967a46b2b4785a667285df1ef4e97c0ffd60b0f add70eb4e27ccb99128f7830b4eb5567e945a3b8 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580871008 +0900	commit: Add> ex07> ft_find_next_prime.c
+add70eb4e27ccb99128f7830b4eb5567e945a3b8 add70eb4e27ccb99128f7830b4eb5567e945a3b8 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580871442 +0900	reset: moving to HEAD
