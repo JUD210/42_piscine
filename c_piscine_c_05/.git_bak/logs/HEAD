@@ -19,3 +19,5 @@ e636bca78320390136b093958aedeb9dc3f376a1 6fb8259addbe137a26e426b24f817a90fd033ff
 7e03df65bd6e025c88e935bcdd5e4f482b3c0ded 9967a46b2b4785a667285df1ef4e97c0ffd60b0f Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580870256 +0900	commit (amend): Edit> ex06> remove unnecessary condition
 9967a46b2b4785a667285df1ef4e97c0ffd60b0f add70eb4e27ccb99128f7830b4eb5567e945a3b8 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580871008 +0900	commit: Add> ex07> ft_find_next_prime.c
 add70eb4e27ccb99128f7830b4eb5567e945a3b8 add70eb4e27ccb99128f7830b4eb5567e945a3b8 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580871442 +0900	reset: moving to HEAD
+add70eb4e27ccb99128f7830b4eb5567e945a3b8 d1f37f60a8d29e80ad2f74bf788c8de2db04f566 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580891330 +0900	commit: Add> ex04> exception for a negative input
+d1f37f60a8d29e80ad2f74bf788c8de2db04f566 d1f37f60a8d29e80ad2f74bf788c8de2db04f566 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580893997 +0900	reset: moving to HEAD

@@ -6,7 +6,7 @@
 /*   By: hmin <hmin@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/02/04 19:22:12 by hmin              #+#    #+#             */
-/*   Updated: 2020/02/04 19:47:08 by hmin             ###   ########.fr       */
+/*   Updated: 2020/02/05 17:23:03 by hmin             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,9 @@
 
 int	ft_fibonacci(int index)
 {
-	if (index == 0)
+	if (index < 0)
+		return (-1);
+	else if (index == 0)
 		return (0);
 	else if (index == 1)
 		return (1);
