@@ -6,17 +6,12 @@
 /*   By: hmin <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/28 14:19:22 by hmin              #+#    #+#             */
-/*   Updated: 2020/01/28 17:00:23 by hmin             ###   ########.fr       */
+/*   Updated: 2020/01/29 13:36:29 by hmin             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-char	*ft_strcapitalize(char *str)
+void	*convert(char *str, int i, int is_new_word)
 {
-	int	i;
-	int is_new_word;
-
-	i = 0;
-	is_new_word = 1;
 	while (str[i])
 	{
 		if ('a' <= str[i] && str[i] <= 'z')
@@ -27,7 +22,8 @@ char	*ft_strcapitalize(char *str)
 		}
 		else if ('A' <= str[i] && str[i] <= 'Z')
 		{
-			str[i] += 32;
+			if (i != 0 && !is_new_word)
+				str[i] += 32;
 			is_new_word = 0;
 		}
 		else if ('0' <= str[i] && str[i] <= '9')
@@ -36,5 +32,16 @@ char	*ft_strcapitalize(char *str)
 			is_new_word = 1;
 		i++;
 	}
+	return (0);
+}
+
+char	*ft_strcapitalize(char *str)
+{
+	int	i;
+	int is_new_word;
+
+	i = 0;
+	is_new_word = 1;
+	convert(str, i, is_new_word);
 	return (str);
 }

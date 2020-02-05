@@ -16,3 +16,6 @@ aa595d64275994a7a72b3bbb60c11e8d0a96aefa 6db58c1989f24efb55e7c56c2c23c84a148501b
 76ce6a3f41e82a10ed951947e1a333f0263bf315 5dfdee022c9b5e3467a8229a9c35fe0b06583bb3 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580732415 +0900	commit (amend): Add> ex04> ft_putnbr_base.c | main: why it isn't valid
 5dfdee022c9b5e3467a8229a9c35fe0b06583bb3 9940270b00960bbe1fcfb195b307206eb02ebf6a Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580732489 +0900	commit (amend): Add> ex04> ft_putnbr_base.c | main: why it isn't valid
 9940270b00960bbe1fcfb195b307206eb02ebf6a 2e747e07d9c61c7ce61b95d40e1af27fa2d803c5 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580735797 +0900	commit: Edit> ex04> No over 1000 index! It overflows stack domain (probably)
+2e747e07d9c61c7ce61b95d40e1af27fa2d803c5 cd2cf7abcfdecf2a09d136d9dee8a77db82f4436 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580804564 +0900	commit: Edit> ex03> NO is_alphabet, check ' ','-','+' after number
+cd2cf7abcfdecf2a09d136d9dee8a77db82f4436 eeb1203465958b3bc8195479c71226c194383bc7 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580805448 +0900	commit: Edit> ex04> char used_characters[] -> int g_char_cnt[]
+eeb1203465958b3bc8195479c71226c194383bc7 d9cb54262434d731017b322c2d0f247a55030852 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580871494 +0900	commit: Edit> ex04> long int -> long long

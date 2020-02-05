@@ -6,7 +6,7 @@
 /*   By: hmin <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/28 17:48:16 by hmin              #+#    #+#             */
-/*   Updated: 2020/01/29 08:30:21 by hmin             ###   ########.fr       */
+/*   Updated: 2020/01/29 15:13:49 by hmin             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,24 +23,25 @@
 **	For strlcpy() that means the length of src.
 */
 
-/*
-** WARNING NO NULL OVER!
-*/
-
 unsigned int	ft_strlcpy(char *dest, char *src, unsigned int size)
 {
 	unsigned int i;
+	unsigned int src_size;
 
+	i = 0;
+	src_size = 0;
+	while (src[i])
+	{
+		src_size++;
+		i++;
+	}
 	i = 0;
 	while (i + 1 < size && src[i])
 	{
 		dest[i] = src[i];
 		i++;
 	}
-	while (i + 1 <= size)
-	{
+	if (size != 0 && i <= size)
 		dest[i] = '\0';
-		i++;
-	}
-	return (sizeof(src) + 1);
+	return (src_size);
 }

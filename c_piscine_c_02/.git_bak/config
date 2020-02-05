@@ -6,7 +6,7 @@
 	ignorecase = true
 	precomposeunicode = true
 [remote "origin"]
-	url = git@vogsphere.42seoul.kr:vogsphere/intra-uuid-67fa591e-8037-4bf1-9e4b-d586295467da-3055834
+	url = git@vogsphere.42seoul.kr:vogsphere/intra-uuid-1677752f-0078-4a1a-b1ee-bcb7e39fac52-3061638
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin

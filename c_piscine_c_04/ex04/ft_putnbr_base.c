@@ -6,7 +6,7 @@
 /*   By: hmin <hmin@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/02/03 13:37:46 by hmin              #+#    #+#             */
-/*   Updated: 2020/02/04 11:18:25 by hmin             ###   ########.fr       */
+/*   Updated: 2020/02/04 20:26:26 by hmin             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,7 @@
 **	 5 / 2 (1)
 **	 2 / 2 (0)
 **	 1 / 2 (1)
-**	10200
+**	10100
 **
 **	20 / 10 (0)
 **	 2 / 10 (2)
@@ -38,6 +38,12 @@
 
 #include <unistd.h>
 
+/*
+** global variable initiates automatically
+*/
+
+int	g_char_cnt[512];
+
 int		calc_str_len(char *str_base_char)
 {
 	int	cnt;
@@ -48,18 +54,13 @@ int		calc_str_len(char *str_base_char)
 	return (cnt);
 }
 
-int		has_same_characters(char ch, char *used_characters)
+int		has_same_characters(char ch)
 {
-	int	i;
-
-	i = 0;
-	while (used_characters[i])
-	{
-		if (ch == used_characters[i])
-			return (1);
-		i++;
-	}
-	return (0);
+	g_char_cnt[ch - 0]++;
+	if (g_char_cnt[ch - 0] >= 2)
+		return (1);
+	else
+		return (0);
 }
 
 /*
@@ -69,19 +70,17 @@ int		has_same_characters(char ch, char *used_characters)
 int		is_valid_base_char(char *str_base_char)
 {
 	int		i;
-	char	used_characters[200];
 
 	if (calc_str_len(str_base_char) <= 1)
 		return (0);
 	i = 0;
 	while (str_base_char[i])
 	{
-		if (has_same_characters(str_base_char[i], used_characters))
+		if (has_same_characters(str_base_char[i]))
 			return (0);
 		else if (*str_base_char == '+' || *str_base_char == '-')
 			return (0);
-		used_characters[i] = str_base_char[i];
-		used_characters[i + 1] = '\0';
+		g_char_cnt[i + 1] = '\0';
 		i++;
 	}
 	return (1);
@@ -98,7 +97,7 @@ int		is_valid_base_char(char *str_base_char)
 */
 
 void	recur_solution(
-long int nbr, char *str_base_nbr, char *str_base_char, int base_len)
+long long nbr, char *str_base_nbr, char *str_base_char, int base_len)
 {
 	*str_base_nbr = '0' + (int)(nbr % base_len);
 	nbr = nbr / base_len;
@@ -109,9 +108,10 @@ long int nbr, char *str_base_nbr, char *str_base_char, int base_len)
 
 void	ft_putnbr_base(int nbr_s, char *str_base_char)
 {
-	long int	nbr;
+	int			i;
+	long long	nbr;
 	int			base_len;
-	char		str_base_nbr[200];
+	char		str_base_nbr[512];
 
 	nbr = nbr_s;
 	if (!is_valid_base_char(str_base_char))
@@ -123,4 +123,8 @@ void	ft_putnbr_base(int nbr_s, char *str_base_char)
 	}
 	base_len = calc_str_len(str_base_char);
 	recur_solution(nbr, str_base_nbr, str_base_char, base_len);
+
+	i = -1;
+	while (++i < 512)
+		g_char_cnt[i] = 0;
 }

@@ -6,7 +6,7 @@
 /*   By: hmin <hmin@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/31 14:25:15 by hmin              #+#    #+#             */
-/*   Updated: 2020/02/04 11:09:56 by hmin             ###   ########.fr       */
+/*   Updated: 2020/02/04 16:02:44 by hmin             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -36,10 +36,12 @@ void	anal_str(char *str, int *ptr_cnt_minus, int *ptr_rst)
 	int	no_space_flag;
 
 	no_space_flag = 0;
-	while (*str)
+	while (*(++str - 1))
 	{
 		if (*str == '-' || *str == '+')
 		{
+			if (*ptr_rst != 0)
+				return ;
 			if (*str == '-')
 				(*ptr_cnt_minus)++;
 			no_space_flag = 1;
@@ -49,14 +51,12 @@ void	anal_str(char *str, int *ptr_cnt_minus, int *ptr_rst)
 			*ptr_rst = (*ptr_rst * 10) + (*str - '0');
 			no_space_flag = 1;
 		}
+		else if (is_space(str) && no_space_flag)
+			return ;
 		else if (is_space(str))
-		{
-			if (no_space_flag)
-				return ;
-		}
+			;
 		else
 			return ;
-		str++;
 	}
 }
 

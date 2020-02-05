@@ -32,3 +32,10 @@ ef578436ba22534234e6f94c27cff73fdd49d121 c9ad79a9cb7271ec72638d38eee37d6a36f515d
 c9ad79a9cb7271ec72638d38eee37d6a36f515de 6f7dfc242aa2a426299b7e432c2e2bccfc838d59 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580218151 +0900	commit: Add> ex10> ft_strlcpy.c
 6f7dfc242aa2a426299b7e432c2e2bccfc838d59 4741bb967df7a6a612da53b762d33e1a1a447d94 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580253275 +0900	commit: Edit> ex10> i-1 to i
 4741bb967df7a6a612da53b762d33e1a1a447d94 9cd7365f818303066fda078571fa7d048e78ca3c Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580254639 +0900	commit (amend): Edit> ex10> i=1 to i=0
+9cd7365f818303066fda078571fa7d048e78ca3c 08a27481e860ea337f59b516410b65c11fab1feb Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580263542 +0900	commit: Edit> ex02> ONLY alphabet
+08a27481e860ea337f59b516410b65c11fab1feb 08a27481e860ea337f59b516410b65c11fab1feb Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580266263 +0900	reset: moving to HEAD
+08a27481e860ea337f59b516410b65c11fab1feb 77e01c8670a7f30cfe6f8e311e32b33635f67fe2 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580273152 +0900	commit: Edit> ex09> first character capitalization issue
+77e01c8670a7f30cfe6f8e311e32b33635f67fe2 d2e3a391c7e3f2678faa3696cf9b434fbe94de13 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580274123 +0900	commit: Edit> ex10> delete additional '\0's
+d2e3a391c7e3f2678faa3696cf9b434fbe94de13 ed9f01b0fb4e8063cd9f2639974b5c06218c3ee3 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580277981 +0900	commit: Edit> ex10> sizeof(pointer) => 8Byte(64bit) | 4Byte(32bit)
+ed9f01b0fb4e8063cd9f2639974b5c06218c3ee3 fb7fe009f63a4cc1134b208bdc51151ae37079d9 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580278656 +0900	commit: Edit> ex10> add condition for nullOC
+fb7fe009f63a4cc1134b208bdc51151ae37079d9 029fb8c6cdd3415150eb7445171c1c7002312caa Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580278657 +0900	commit (amend): Edit> ex10> add condition for null

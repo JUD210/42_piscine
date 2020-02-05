@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: hmin <marvin@42.fr>                        +#+  +:+       +#+        */
+/*   By: hmin <hmin@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/29 19:12:18 by hmin              #+#    #+#             */
-/*   Updated: 2020/01/30 19:11:32 by hmin             ###   ########.fr       */
+/*   Updated: 2020/02/05 12:05:53 by hmin             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@ int		ft_strncmp(char *s1, char *s2, unsigned int n);
 void	pr(char *s1, char *s2, unsigned int n)
 {
 	unsigned int 	i;
-	
+
 	i = 0;
 	while (i <= n)
 	{
@@ -52,9 +52,11 @@ int	main(void)
 	printf("===== [Exercise 01] 테스트 =====\n\n");
 	printf("%-25s | %-25s | %-4s || %-10s | %-10s\n", "str1", "str2", "n", "ft_strncmp", "strncmp");
 	print_divider(80);
-	
+
 	str2 = "";
 	pr(str3, str2, 3);
+	print_divider(80);
+	printf("Above is just an experimental things!\nDO NOT CONSIDER THEM!\n");
 	print_divider(80);
 
 	str1 = "";
@@ -71,7 +73,7 @@ int	main(void)
 	str2 = "";
 	pr(str1, str2, 3);
 	print_divider(80);
-	
+
 	str1 = "42 Seoul";
 	str2 = "42 Seoul";
 	pr(str1, str2, 10);
@@ -81,7 +83,7 @@ int	main(void)
 	str2 = "42 Seoul";
 	pr(str1, str2, 0);
 	print_divider(80);
-	
+
 	str1 = "Hi! World!";
 	str2 = "Hi! 42 Seoul!";
 	pr(str1, str2, 6);
@@ -90,7 +92,7 @@ int	main(void)
 	str1 = "Lo iPsum dolor sit amet";
 	str2 = "Lo ipsum Dolor sit amet";
 	pr(str1, str2, 10);
-	
+
 	/*
 	char	c_str1[5];
 	char	c_str2[] = "TTesetseet jlkgi dus9gu90sd  aiidjgl ajds g  asidjgj asdgas sdg a sdg asd g asdioguasodgu8s89adgu90asdpgiojasdj giasjioj gioasdjgijoas8u gu8asdiogiajsdgkjass ioga89sdg90alsidgli a as9dugu90asdgokljas  9asdg9as0d9g8asdg asodd igoassd89g7";
