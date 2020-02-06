@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 85727b55b5916a7b4af15ff8fa34fbcbcb5f7c03 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580899219 +0900	commit (initial): Initial commit
+85727b55b5916a7b4af15ff8fa34fbcbcb5f7c03 d0d73f89bba02b46b06958348bc014ac963d25dd Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580899456 +0900	commit: Del> tmp
+d0d73f89bba02b46b06958348bc014ac963d25dd a82e3e3bf48a3d52ada35830355019f5f213e9c4 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580908424 +0900	commit: Add> ex00> ft_print_program_name.c
+a82e3e3bf48a3d52ada35830355019f5f213e9c4 e52ed3a86cf114920d11c0f2877e1a46f39def98 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580909253 +0900	commit: Add> ex01> ft_print_params.c
+e52ed3a86cf114920d11c0f2877e1a46f39def98 e52ed3a86cf114920d11c0f2877e1a46f39def98 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580948286 +0900	reset: moving to HEAD
+e52ed3a86cf114920d11c0f2877e1a46f39def98 0a1ca4df073133a5d110692b9e9306c3e0f73b77 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580948304 +0900	commit (amend): Add> ex01> ft_print_params.c
+0a1ca4df073133a5d110692b9e9306c3e0f73b77 91c6125bb58b07d34137159b9bf5175d70b0804e Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580948480 +0900	commit: Add> ex02> ft_rev_params.c
+91c6125bb58b07d34137159b9bf5175d70b0804e 62dd1484d3fa5ecb2bae4d36ebe2d1f3bdc4581c Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580952630 +0900	commit (amend): Add> ex02> ft_rev_params.c
+62dd1484d3fa5ecb2bae4d36ebe2d1f3bdc4581c 57546bfb51f1d429ecb2ac746e38b546e71edb45 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580954373 +0900	commit: Add> ex03> ft_sort_params.c
