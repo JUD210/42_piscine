@@ -6,3 +6,10 @@ e52ed3a86cf114920d11c0f2877e1a46f39def98 0a1ca4df073133a5d110692b9e9306c3e0f73b7
 0a1ca4df073133a5d110692b9e9306c3e0f73b77 91c6125bb58b07d34137159b9bf5175d70b0804e Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580948480 +0900	commit: Add> ex02> ft_rev_params.c
 91c6125bb58b07d34137159b9bf5175d70b0804e 62dd1484d3fa5ecb2bae4d36ebe2d1f3bdc4581c Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580952630 +0900	commit (amend): Add> ex02> ft_rev_params.c
 62dd1484d3fa5ecb2bae4d36ebe2d1f3bdc4581c 57546bfb51f1d429ecb2ac746e38b546e71edb45 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580954373 +0900	commit: Add> ex03> ft_sort_params.c
+57546bfb51f1d429ecb2ac746e38b546e71edb45 8847e45af64b953f7ab17294ff13cf00e40d9d74 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580963927 +0900	commit: Add> ex03> no newline at end of file
+8847e45af64b953f7ab17294ff13cf00e40d9d74 8b67a095cc3817f387d0ca72b0528206b30a0273 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580963931 +0900	commit (amend): Add> ex03> newline at end of file
+8b67a095cc3817f387d0ca72b0528206b30a0273 55333a389dd070960f8ce26c496b4936fdfaa7c5 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580965578 +0900	commit: Edit> ex03> rev arguments' order ... not elements'
+55333a389dd070960f8ce26c496b4936fdfaa7c5 fe3524c7810f4f79b952e516331d2aa861bdcbe3 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580965731 +0900	rebase -i (finish): refs/heads/master onto 62dd1484d3fa5ecb2bae4d36ebe2d1f3bdc4581c
+fe3524c7810f4f79b952e516331d2aa861bdcbe3 5b7f840f833a154e76955d4dcec98134620aaf9d Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580965795 +0900	reset: moving to 5b7f840
+5b7f840f833a154e76955d4dcec98134620aaf9d 484e7f47e1252a2aae7ddd73f3825252bd196a14 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580965841 +0900	commit (amend): Edit> ex02> rev arguments' order ... not elements'
+484e7f47e1252a2aae7ddd73f3825252bd196a14 bbce24d12514c5b76f49a42da8973a526598d453 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580972810 +0900	commit: need to solve ex03

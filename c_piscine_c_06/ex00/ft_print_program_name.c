@@ -6,7 +6,7 @@
 /*   By: hmin <hmin@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/02/05 19:51:51 by hmin              #+#    #+#             */
-/*   Updated: 2020/02/05 22:21:44 by hmin             ###   ########.fr       */
+/*   Updated: 2020/02/06 13:38:09 by hmin             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,5 +26,6 @@ int	main(int argc, char *argv[])
 {
 	if (argc == 1)
 		write(1, argv[0], str_len(argv[0]));
+	write(1, "\n", 1);
 	return (argc);
 }
