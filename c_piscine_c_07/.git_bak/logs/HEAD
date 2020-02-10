@@ -1,0 +1,25 @@
+0000000000000000000000000000000000000000 53a2704b896352edf64ac3d6dcbb55e81ad43db6 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580977921 +0900	commit (initial): Initial commit
+53a2704b896352edf64ac3d6dcbb55e81ad43db6 1544b7ad9b8cffcebdb5658fe238e281c43733b2 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580977935 +0900	commit: Del> tmp
+1544b7ad9b8cffcebdb5658fe238e281c43733b2 1544b7ad9b8cffcebdb5658fe238e281c43733b2 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580987221 +0900	reset: moving to HEAD
+1544b7ad9b8cffcebdb5658fe238e281c43733b2 1656cf7e8bff196ea27bde7b57eb07827ebc57ee Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580987238 +0900	commit: Add> ex00> ft_strdup.c
+1656cf7e8bff196ea27bde7b57eb07827ebc57ee 1656cf7e8bff196ea27bde7b57eb07827ebc57ee Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580993101 +0900	reset: moving to HEAD
+1656cf7e8bff196ea27bde7b57eb07827ebc57ee 1656cf7e8bff196ea27bde7b57eb07827ebc57ee Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580993105 +0900	reset: moving to HEAD
+1656cf7e8bff196ea27bde7b57eb07827ebc57ee 1b550a2d75ce491a272a6bf5e793c5f68722d5a0 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1580993866 +0900	commit: Add> ex01> ft_range.c
+1b550a2d75ce491a272a6bf5e793c5f68722d5a0 1b550a2d75ce491a272a6bf5e793c5f68722d5a0 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581039287 +0900	reset: moving to HEAD
+1b550a2d75ce491a272a6bf5e793c5f68722d5a0 1b550a2d75ce491a272a6bf5e793c5f68722d5a0 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581041165 +0900	reset: moving to HEAD
+1b550a2d75ce491a272a6bf5e793c5f68722d5a0 1b550a2d75ce491a272a6bf5e793c5f68722d5a0 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581042832 +0900	reset: moving to HEAD
+1b550a2d75ce491a272a6bf5e793c5f68722d5a0 0ad6ee550ec8960dfddf01485a579dcc59305079 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581042852 +0900	commit: Edit> ex01> naming
+0ad6ee550ec8960dfddf01485a579dcc59305079 859ea2022ba193582cdbdf8645e5aea6b0f20fe6 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581042861 +0900	commit (amend): Edit> ex01> change var name: arr -> ptr_i
+859ea2022ba193582cdbdf8645e5aea6b0f20fe6 859ea2022ba193582cdbdf8645e5aea6b0f20fe6 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581053125 +0900	reset: moving to HEAD
+859ea2022ba193582cdbdf8645e5aea6b0f20fe6 d2ab71ab6157dedf5041bdafb3bfc604df5fe864 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581053139 +0900	commit: Add> ex02> ft_ultimate_range.c
+d2ab71ab6157dedf5041bdafb3bfc604df5fe864 d2ab71ab6157dedf5041bdafb3bfc604df5fe864 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581139748 +0900	reset: moving to HEAD
+d2ab71ab6157dedf5041bdafb3bfc604df5fe864 d2ab71ab6157dedf5041bdafb3bfc604df5fe864 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581139757 +0900	reset: moving to HEAD
+d2ab71ab6157dedf5041bdafb3bfc604df5fe864 b56584245cdcff9c4c56bbc9cc2c1f496e7a7980 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581139778 +0900	commit: Edit> ex02> i = min -> i = 0
+b56584245cdcff9c4c56bbc9cc2c1f496e7a7980 fe7268471da5e30e837a4b28998ccf25f9ef161c Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581139787 +0900	commit: Add> ex03> ft_strjoin.c
+fe7268471da5e30e837a4b28998ccf25f9ef161c a1e53cec06326cdedac960d706c57a3bdad3c0fc Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581207918 +0900	commit: Add> ex03> comments to understand double pointer
+a1e53cec06326cdedac960d706c57a3bdad3c0fc 9121cbbb1d47a06e41c6ae8e6d7bb9483578a3f7 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581298410 +0900	commit: Fix> norminette
+9121cbbb1d47a06e41c6ae8e6d7bb9483578a3f7 9121cbbb1d47a06e41c6ae8e6d7bb9483578a3f7 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581307704 +0900	reset: moving to HEAD
+9121cbbb1d47a06e41c6ae8e6d7bb9483578a3f7 9121cbbb1d47a06e41c6ae8e6d7bb9483578a3f7 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581308027 +0900	reset: moving to HEAD
+9121cbbb1d47a06e41c6ae8e6d7bb9483578a3f7 84142df92abcfb907f5fc7fcea1efbb7175c1de1 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581310643 +0900	commit: Edit> ex01,02> sizeof(int) * max - min
+84142df92abcfb907f5fc7fcea1efbb7175c1de1 488c678ac7cf0df0999afd3d5017aa0b12092a3a Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581310845 +0900	commit (amend): Edit> ex01,02> max - min => (max - min)
+488c678ac7cf0df0999afd3d5017aa0b12092a3a 488c678ac7cf0df0999afd3d5017aa0b12092a3a Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581315710 +0900	reset: moving to HEAD

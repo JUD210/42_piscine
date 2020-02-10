@@ -1,0 +1,14 @@
+Edit> ex01,02> max - min => (max - min)
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Mon Feb 10 13:57:23 2020 +0900
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   ../ex01/ft_range.c
+#	modified:   ft_ultimate_range.c
+#
