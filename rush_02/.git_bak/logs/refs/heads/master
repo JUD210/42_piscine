@@ -1,0 +1,30 @@
+0000000000000000000000000000000000000000 d693ac34d0d57fc9b0f3ccc8eb0c8648231fa467 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581246420 +0900	commit (initial): BACKUP (20:06)
+d693ac34d0d57fc9b0f3ccc8eb0c8648231fa467 e325101e83abccd84c8337b829c13b39e6996c2f Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581248278 +0900	commit: norm fix
+e325101e83abccd84c8337b829c13b39e6996c2f 5f5e65ff9fb93861b3f15b62301a93154613186a Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581248516 +0900	commit: backup
+5f5e65ff9fb93861b3f15b62301a93154613186a 5ceddafebfa76a076baf171930f272001756ac4e Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581248680 +0900	commit: fix makefile
+5ceddafebfa76a076baf171930f272001756ac4e 812440c62233e36f3b70594d28b52d24d1435918 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581248704 +0900	commit: i -> index
+812440c62233e36f3b70594d28b52d24d1435918 4df3ae72147ad5c4659496b543f62e4e86756207 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581248752 +0900	commit: ft_double_cmp -> cmp
+4df3ae72147ad5c4659496b543f62e4e86756207 06ecfcd6fe75d07cb4d0d76338716e5f9b0ca87d Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581249051 +0900	commit: ft_str_split fix
+06ecfcd6fe75d07cb4d0d76338716e5f9b0ca87d de650cda49d3cae62e144c9d94d76c31271edf54 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581249797 +0900	commit: 21:03 why segmentation fault... nononono
+de650cda49d3cae62e144c9d94d76c31271edf54 289299608df4c7a90efe0034f5c842e9f12105c4 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581249800 +0900	commit (amend): 21:03 why segmentation fault... nonono
+289299608df4c7a90efe0034f5c842e9f12105c4 3c040a1543b6088ac2ffdf8be67a8ce78394af52 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581250144 +0900	commit: dic -> dict
+3c040a1543b6088ac2ffdf8be67a8ce78394af52 fe00be8575fe4f0ad4ab080a220f25bad61b172a Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581250165 +0900	commit (amend): dic -> dict
+fe00be8575fe4f0ad4ab080a220f25bad61b172a b39d4a817a184aeea88e133dc7d7aeca6e13dcbd Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581250800 +0900	commit: idx++;
+b39d4a817a184aeea88e133dc7d7aeca6e13dcbd ac6d0234115be4c49f1b07838d8fdd3f2c63ae49 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581251534 +0900	commit: **cpy -> *cpy
+ac6d0234115be4c49f1b07838d8fdd3f2c63ae49 fb67dcac1cb5e5cb1911eef5e0c8a40073a3deb2 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581251792 +0900	commit: idx++ to free_dic
+fb67dcac1cb5e5cb1911eef5e0c8a40073a3deb2 50cbd0d9cb55f2a46b9ad46b1714da256350f7ca Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581252183 +0900	commit (amend): idx++ to free_dic
+50cbd0d9cb55f2a46b9ad46b1714da256350f7ca 45599b452130e082901017ada9cb57c3b7f4d8c2 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581252748 +0900	commit: Eng commentary
+45599b452130e082901017ada9cb57c3b7f4d8c2 a9e9000736e6eaea3ff8f86b9b87c8061e1c11d4 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581252909 +0900	commit (amend): Eng commentary
+a9e9000736e6eaea3ff8f86b9b87c8061e1c11d4 9fd7dfeebdbf1849f4afc2e62a288cf66b9e1837 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581256143 +0900	commit: *s1 - *s2 -> s1[idx] - s2[idx]
+9fd7dfeebdbf1849f4afc2e62a288cf66b9e1837 fe00be8575fe4f0ad4ab080a220f25bad61b172a Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581406272 +0900	reset: moving to fe00be8
+fe00be8575fe4f0ad4ab080a220f25bad61b172a e325101e83abccd84c8337b829c13b39e6996c2f Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581406300 +0900	reset: moving to e325101
+e325101e83abccd84c8337b829c13b39e6996c2f d693ac34d0d57fc9b0f3ccc8eb0c8648231fa467 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581406326 +0900	reset: moving to d693ac3
+d693ac34d0d57fc9b0f3ccc8eb0c8648231fa467 9fd7dfeebdbf1849f4afc2e62a288cf66b9e1837 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581406401 +0900	reset: moving to 9fd7dfe
+9fd7dfeebdbf1849f4afc2e62a288cf66b9e1837 5ceddafebfa76a076baf171930f272001756ac4e Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581406617 +0900	reset: moving to 5ceddaf
+5ceddafebfa76a076baf171930f272001756ac4e 289299608df4c7a90efe0034f5c842e9f12105c4 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581406624 +0900	reset: moving to 2892996
+289299608df4c7a90efe0034f5c842e9f12105c4 06ecfcd6fe75d07cb4d0d76338716e5f9b0ca87d Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581406634 +0900	reset: moving to 06ecfcd
+06ecfcd6fe75d07cb4d0d76338716e5f9b0ca87d 4df3ae72147ad5c4659496b543f62e4e86756207 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581406641 +0900	reset: moving to 4df3ae7
+4df3ae72147ad5c4659496b543f62e4e86756207 9fd7dfeebdbf1849f4afc2e62a288cf66b9e1837 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581406666 +0900	reset: moving to 9fd7dfe
+9fd7dfeebdbf1849f4afc2e62a288cf66b9e1837 06ecfcd6fe75d07cb4d0d76338716e5f9b0ca87d Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581406759 +0900	reset: moving to 06ecfcd
+06ecfcd6fe75d07cb4d0d76338716e5f9b0ca87d 4df3ae72147ad5c4659496b543f62e4e86756207 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581406765 +0900	reset: moving to 4df3ae7
+4df3ae72147ad5c4659496b543f62e4e86756207 9fd7dfeebdbf1849f4afc2e62a288cf66b9e1837 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581406775 +0900	reset: moving to 9fd7dfe
