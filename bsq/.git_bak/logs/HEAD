@@ -1,0 +1,97 @@
+0000000000000000000000000000000000000000 f31487eb44ea83b908cba6e661cc4cf86c30b9e7 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581339662 +0900	commit (initial): Initial commit
+f31487eb44ea83b908cba6e661cc4cf86c30b9e7 1d7212d6cea47355a4142cd6c2838080d96b390f Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581339906 +0900	commit: Add> main.c
+1d7212d6cea47355a4142cd6c2838080d96b390f 78aa03983b2702e638db56410e327d711b558296 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581339917 +0900	commit (amend): Add> main.c
+78aa03983b2702e638db56410e327d711b558296 78aa03983b2702e638db56410e327d711b558296 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581422755 +0900	reset: moving to HEAD
+78aa03983b2702e638db56410e327d711b558296 dbd58dd2db3374eb6204f0d4a605991534ef9471 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581422871 +0900	commit: Crt> @to_dos> Psuedo Code for parse_map.c
+dbd58dd2db3374eb6204f0d4a605991534ef9471 dbd58dd2db3374eb6204f0d4a605991534ef9471 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581425736 +0900	reset: moving to HEAD
+dbd58dd2db3374eb6204f0d4a605991534ef9471 163da99488a92bb536e1d0e81f953afdfc7bfa56 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581425838 +0900	commit: Add> @to_dos> The first psuedo code for the project
+163da99488a92bb536e1d0e81f953afdfc7bfa56 78c31523f6b90da6451e831977037303541ae4d1 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581426226 +0900	commit: Add> maps/ map1 map2
+78c31523f6b90da6451e831977037303541ae4d1 39c2414ec8355af86d916ad1f08aad3ad9847e5d Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581426256 +0900	commit (amend): Add> maps/ map1 map2
+39c2414ec8355af86d916ad1f08aad3ad9847e5d 49b09e54d8d40b7923b22874ff3ed786f8bc64c9 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581426312 +0900	commit (amend): Add> maps/ map1 map2
+49b09e54d8d40b7923b22874ff3ed786f8bc64c9 49b09e54d8d40b7923b22874ff3ed786f8bc64c9 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581426566 +0900	reset: moving to HEAD
+49b09e54d8d40b7923b22874ff3ed786f8bc64c9 c36940796cad137077ed2e4d65f634ab546c9267 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581427017 +0900	commit: Add> include.h
+c36940796cad137077ed2e4d65f634ab546c9267 c10c6e58849c7ed478f23ded6f60db53173fde19 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581427021 +0900	commit (amend): Add> include.h
+c10c6e58849c7ed478f23ded6f60db53173fde19 8daa697b771bf99781eae87f189eceaf4e761bc9 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581427061 +0900	commit (amend): Add> include.h
+8daa697b771bf99781eae87f189eceaf4e761bc9 163da99488a92bb536e1d0e81f953afdfc7bfa56 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581427079 +0900	rebase -i (start): checkout HEAD~2
+163da99488a92bb536e1d0e81f953afdfc7bfa56 49b09e54d8d40b7923b22874ff3ed786f8bc64c9 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581427079 +0900	rebase -i: fast-forward
+49b09e54d8d40b7923b22874ff3ed786f8bc64c9 16fe28f94bef730387a66b120643b6e407a58ffc Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581427079 +0900	rebase -i (reword): Crt> maps/ map1 map2
+16fe28f94bef730387a66b120643b6e407a58ffc 285cbec083f700caa1e273c21e087fc82fa7812a Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581427083 +0900	rebase -i (reword): Crt> include.h> #include unistd.h stdlib.h fcntl.h
+285cbec083f700caa1e273c21e087fc82fa7812a 285cbec083f700caa1e273c21e087fc82fa7812a Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581427079 +0900	rebase -i (finish): returning to refs/heads/master
+285cbec083f700caa1e273c21e087fc82fa7812a 1fb301279da46eed951f72bc24c5316934ec41df Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581427112 +0900	commit (amend): Crt> include.h> #include <unistd.h, stdlib.h, fcntl.h>
+1fb301279da46eed951f72bc24c5316934ec41df afa3ea5dab0de82b23252cc72fe4b8842ec86f4d Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581428519 +0900	pull: Fast-forward
+afa3ea5dab0de82b23252cc72fe4b8842ec86f4d afa3ea5dab0de82b23252cc72fe4b8842ec86f4d Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581459365 +0900	reset: moving to HEAD
+afa3ea5dab0de82b23252cc72fe4b8842ec86f4d 9f1885d03126d51acb8e60d84efd8c36e330c26d Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581459413 +0900	commit: Add> @to_dos> Psuedo> load_map
+9f1885d03126d51acb8e60d84efd8c36e330c26d 9f1570d57b7e3e3d7eff32064101f63dc50d5220 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581459660 +0900	commit (amend): Add> @to_dos> Psuedo> load_map
+9f1570d57b7e3e3d7eff32064101f63dc50d5220 9f1570d57b7e3e3d7eff32064101f63dc50d5220 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581462316 +0900	reset: moving to HEAD
+9f1570d57b7e3e3d7eff32064101f63dc50d5220 f2b4765fe0b7e07199a6364725bff65bcf985440 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581462364 +0900	commit: Org> mv *.h headers/ | Crt> solution.h
+f2b4765fe0b7e07199a6364725bff65bcf985440 f2b4765fe0b7e07199a6364725bff65bcf985440 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581462374 +0900	reset: moving to HEAD
+f2b4765fe0b7e07199a6364725bff65bcf985440 f2b4765fe0b7e07199a6364725bff65bcf985440 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581462426 +0900	reset: moving to HEAD
+f2b4765fe0b7e07199a6364725bff65bcf985440 c38703e1c7187de68de6738ed13d2de1196d290a Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581462489 +0900	commit: Edit> solution.c> change ft math_max,min to define ft
+c38703e1c7187de68de6738ed13d2de1196d290a 6f66cfe08b3261da3d8b30feecac8fbd559a46ae Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581462891 +0900	commit: Edit> solution.c> add 42 header, move ~~~
+6f66cfe08b3261da3d8b30feecac8fbd559a46ae 6f66cfe08b3261da3d8b30feecac8fbd559a46ae Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581463505 +0900	checkout: moving from master to test_solution
+6f66cfe08b3261da3d8b30feecac8fbd559a46ae 0f870a7ee120ba504a6dd6d5fd35cf4aef8b260a Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581463527 +0900	commit (amend): Edit> solution.c> add 42 header, move dp and board to main
+0f870a7ee120ba504a6dd6d5fd35cf4aef8b260a 4d44ce9af3ddd379a16ecc8bdf37791c160614a5 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581463562 +0900	commit (amend): Edit> solution.c> move dp and board to main
+4d44ce9af3ddd379a16ecc8bdf37791c160614a5 fa87152bd73c57ec994859eea1481293555eb10b Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581463585 +0900	commit (amend): Edit> solution.c> move dp and board to main
+fa87152bd73c57ec994859eea1481293555eb10b 55874726fcc26ecbbf4114e4b61e306754f09946 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581463600 +0900	commit (amend): Edit> solution.c> move dp and board to main
+55874726fcc26ecbbf4114e4b61e306754f09946 fdc08744f78a58b1441cc07d304080130e773aa1 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581463699 +0900	commit (amend): Edit> solution.c> move dp and board to main
+fdc08744f78a58b1441cc07d304080130e773aa1 527396b4ae93e253fa119d9fc4717c63768106d1 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581463708 +0900	commit (amend): Edit> solution.c> move dp/board to main, add params
+527396b4ae93e253fa119d9fc4717c63768106d1 b9fbe2c019b045b7bdb224a6c0b29fe23d96d263 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581463881 +0900	commit (amend): Edit> solution.c> move dp/board to main, add params
+b9fbe2c019b045b7bdb224a6c0b29fe23d96d263 e616c28468c0c2d9beb6e6483c613e42143b1ea8 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581464322 +0900	commit: Add> includes.h> commentary about multiple files
+e616c28468c0c2d9beb6e6483c613e42143b1ea8 24daebe22d523b70ec6e688cc4848460000daf67 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581464332 +0900	commit (amend): Add> includes.h> commentary: same header file in multiple files
+24daebe22d523b70ec6e688cc4848460000daf67 24daebe22d523b70ec6e688cc4848460000daf67 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581468254 +0900	checkout: moving from test_solution to test_solution
+24daebe22d523b70ec6e688cc4848460000daf67 eabb581b446317c631734d48eedc2c0ddef3927b Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581468318 +0900	commit: Org> sources to srcs/
+eabb581b446317c631734d48eedc2c0ddef3927b 91c42bc6b7c2d78b94f0d0883f701da23ee6c625 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581468417 +0900	commit (merge): complete merge with test_solution
+91c42bc6b7c2d78b94f0d0883f701da23ee6c625 6f66cfe08b3261da3d8b30feecac8fbd559a46ae Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581468444 +0900	checkout: moving from test_solution to master
+6f66cfe08b3261da3d8b30feecac8fbd559a46ae 91c42bc6b7c2d78b94f0d0883f701da23ee6c625 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581468470 +0900	checkout: moving from master to test_solution
+91c42bc6b7c2d78b94f0d0883f701da23ee6c625 6f66cfe08b3261da3d8b30feecac8fbd559a46ae Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581468502 +0900	checkout: moving from test_solution to master
+6f66cfe08b3261da3d8b30feecac8fbd559a46ae 91c42bc6b7c2d78b94f0d0883f701da23ee6c625 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581468507 +0900	merge test_solution: Fast-forward
+91c42bc6b7c2d78b94f0d0883f701da23ee6c625 91c42bc6b7c2d78b94f0d0883f701da23ee6c625 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581469212 +0900	reset: moving to HEAD
+91c42bc6b7c2d78b94f0d0883f701da23ee6c625 f0b1dc25f3ba710ab324df4baf0d43fc2f0dfa63 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581469253 +0900	commit: Edit> main.c> char board[][] chars to str
+f0b1dc25f3ba710ab324df4baf0d43fc2f0dfa63 0d2e11c19dc376fc65cff34fe8dc4755ca78c897 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581469269 +0900	commit: Add> solution.h> prototype
+0d2e11c19dc376fc65cff34fe8dc4755ca78c897 0d2e11c19dc376fc65cff34fe8dc4755ca78c897 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581469455 +0900	checkout: moving from master to test_main_get_arguments
+0d2e11c19dc376fc65cff34fe8dc4755ca78c897 0d2e11c19dc376fc65cff34fe8dc4755ca78c897 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581469478 +0900	checkout: moving from test_main_get_arguments to master
+0d2e11c19dc376fc65cff34fe8dc4755ca78c897 0d2e11c19dc376fc65cff34fe8dc4755ca78c897 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581469939 +0900	checkout: moving from master to test_main_map_parsing
+0d2e11c19dc376fc65cff34fe8dc4755ca78c897 8bdfeb1f634613d6b2c9bda3aee5e881ab2c6a14 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581469978 +0900	commit: Add> main.c> test_map_reading_frame
+8bdfeb1f634613d6b2c9bda3aee5e881ab2c6a14 0d2e11c19dc376fc65cff34fe8dc4755ca78c897 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581470110 +0900	checkout: moving from test_main_map_parsing to master
+0d2e11c19dc376fc65cff34fe8dc4755ca78c897 44ee445654ca3643ec17657c8c3ac0db7b9ce1ad Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581472562 +0900	commit: TMP> need makefile to finish! yoolee!
+44ee445654ca3643ec17657c8c3ac0db7b9ce1ad 01ec0c7d4f99480c43422cae445a8c30d5ecee0c Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581472586 +0900	commit (amend): TMP> need to finish makefile! help yoolee!
+01ec0c7d4f99480c43422cae445a8c30d5ecee0c 6b71ff7c9c3067a718d679c52a56b7a75aef048f Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581473119 +0900	pull: Fast-forward
+6b71ff7c9c3067a718d679c52a56b7a75aef048f 6b71ff7c9c3067a718d679c52a56b7a75aef048f Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581473258 +0900	checkout: moving from master to test_main_map_parsing
+6b71ff7c9c3067a718d679c52a56b7a75aef048f 6b71ff7c9c3067a718d679c52a56b7a75aef048f Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581489225 +0900	checkout: moving from test_main_map_parsing to master
+6b71ff7c9c3067a718d679c52a56b7a75aef048f 6b71ff7c9c3067a718d679c52a56b7a75aef048f Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581489397 +0900	reset: moving to HEAD
+6b71ff7c9c3067a718d679c52a56b7a75aef048f 6b71ff7c9c3067a718d679c52a56b7a75aef048f Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581489399 +0900	reset: moving to HEAD
+6b71ff7c9c3067a718d679c52a56b7a75aef048f 6b71ff7c9c3067a718d679c52a56b7a75aef048f Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581489459 +0900	checkout: moving from master to test_main_map_parsing
+6b71ff7c9c3067a718d679c52a56b7a75aef048f aa479e10f3ddf3b4b914116f720edcb7421f37b5 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581489467 +0900	commit: temporary backup
+aa479e10f3ddf3b4b914116f720edcb7421f37b5 60a6d4ae875c27c852d1682144aa9586d66ec798 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581489570 +0900	commit (merge): Merge branch 'master' of vogsphere.42seoul.kr:vogsphere/intra-uuid-61a45d0e-e320-40b9-8fe8-6b9f538b9a07-3072954 into test_main_map_parsing
+60a6d4ae875c27c852d1682144aa9586d66ec798 6b71ff7c9c3067a718d679c52a56b7a75aef048f Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581489595 +0900	checkout: moving from test_main_map_parsing to master
+6b71ff7c9c3067a718d679c52a56b7a75aef048f 60a6d4ae875c27c852d1682144aa9586d66ec798 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581489599 +0900	merge test_main_map_parsing: Fast-forward
+60a6d4ae875c27c852d1682144aa9586d66ec798 7ca42ecabe3adac7b300758bc65f71508d51cf0a Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581490190 +0900	commit (amend): Merge branch 'master' of vogsphere.42seoul.kr:vogsphere/intra-uuid-61a45d0e-e320-40b9-8fe8-6b9f538b9a07-3072954 into test_main_map_parsing
+7ca42ecabe3adac7b300758bc65f71508d51cf0a 8ce1d7131d95dc236fbff06a86954c58cd476759 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581491174 +0900	commit: Add> str_utils.c> ft_strlen,cpy
+8ce1d7131d95dc236fbff06a86954c58cd476759 38ebb892f4d4d93948b72e6e2ecef60ebdc126a6 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581492657 +0900	commit: Crt> parse_map.h
+38ebb892f4d4d93948b72e6e2ecef60ebdc126a6 38ebb892f4d4d93948b72e6e2ecef60ebdc126a6 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581493144 +0900	reset: moving to HEAD
+38ebb892f4d4d93948b72e6e2ecef60ebdc126a6 77a3244d06e37c14dc78159f66cbd878b5b19b2e Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581493164 +0900	commit: Crt> defines.h
+77a3244d06e37c14dc78159f66cbd878b5b19b2e addd65042cec7553e5835abac0c04c0e25a32567 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581493168 +0900	commit (amend): Crt> defines.h> t_bool, TRUE, FALSE
+addd65042cec7553e5835abac0c04c0e25a32567 c06ce652a4d4b409339ddc5b5b7e1114a5f0ce6d Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581495107 +0900	commit: Organize & merge multi files, edit some codes
+c06ce652a4d4b409339ddc5b5b7e1114a5f0ce6d ebf8098c7ee36d166f5fa58f0b408c250f81f4aa Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581512120 +0900	commit: no more commit message
+ebf8098c7ee36d166f5fa58f0b408c250f81f4aa 5ab6dd3304810bc93046df8662ede666a0b586f9 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581515910 +0900	commit: WOW! IT's WORKING
+5ab6dd3304810bc93046df8662ede666a0b586f9 3d3a28caed3f450f6110954915408386eb28fda1 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581516142 +0900	commit: test cases
+3d3a28caed3f450f6110954915408386eb28fda1 bf3b33272c8fe7a8c2430cfdb9986e3624b8735f Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581544129 +0900	pull gh master: Merge made by the 'recursive' strategy.
+bf3b33272c8fe7a8c2430cfdb9986e3624b8735f 41b32b995c0c4fd57ea232ccc3c916a598b59815 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581545051 +0900	commit: Fixing> makefile and header
+41b32b995c0c4fd57ea232ccc3c916a598b59815 41b32b995c0c4fd57ea232ccc3c916a598b59815 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581545079 +0900	reset: moving to HEAD
+41b32b995c0c4fd57ea232ccc3c916a598b59815 09700a976521c82ade41b546c34eeb199b1b3061 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581545085 +0900	commit (amend): Fixing> makefile and header
+09700a976521c82ade41b546c34eeb199b1b3061 be23bad60c47cb45c9a9c6fad310fe5897c4e0b5 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581545105 +0900	commit (amend): Fixing> makefile and header
+be23bad60c47cb45c9a9c6fad310fe5897c4e0b5 567fb98d69f03e0983eb942271c2f0344f79d182 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581545787 +0900	commit: Edit> makefile
+567fb98d69f03e0983eb942271c2f0344f79d182 91713db4eeb2e60881ce1d3dcdb7cf3b11b41177 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581546163 +0900	commit: update todo lists
+91713db4eeb2e60881ce1d3dcdb7cf3b11b41177 be044bde2698a93fff2783246c0f51f64d5f5706 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581546748 +0900	commit: Add> main.c> free_g_board_dp
+be044bde2698a93fff2783246c0f51f64d5f5706 268808bbc55141047b5895f50c101cbff4e4a2e8 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581547468 +0900	commit: Merge with yoolee's map error print
+268808bbc55141047b5895f50c101cbff4e4a2e8 d6c2a155d746d152e0aa19ef24c358dda6706794 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581547541 +0900	commit (amend): Merge with yoolee's map error print
+d6c2a155d746d152e0aa19ef24c358dda6706794 73aeca121f73b388f584ec20f00cb64d7b468445 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581548705 +0900	commit: check_valid_file fix
+73aeca121f73b388f584ec20f00cb64d7b468445 121474c9bac5c9de2f9e3da5101f34b3ba19606d Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581548745 +0900	commit (amend): check_valid_file fix
+121474c9bac5c9de2f9e3da5101f34b3ba19606d e1bc9a089f915839da816e42e369d093cb5be006 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581549450 +0900	commit: save
+e1bc9a089f915839da816e42e369d093cb5be006 6b45af660bd61572ff0201c96d1c3b9a8b2c9b6c Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581549597 +0900	commit: argument add
+6b45af660bd61572ff0201c96d1c3b9a8b2c9b6c 2fc53ac765d8ab8a7c5eb0ae8d47e55c6b7e5bac Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581550543 +0900	commit: ddd
+2fc53ac765d8ab8a7c5eb0ae8d47e55c6b7e5bac 642a8222718a3bed8a87ef743a2b6982bd67285e Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581550620 +0900	commit: save
+642a8222718a3bed8a87ef743a2b6982bd67285e 207eb5ab474a35fdf027473e2648f9343ddc3c7a Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581550750 +0900	commit: save
+207eb5ab474a35fdf027473e2648f9343ddc3c7a 972bf129e47478df7290f9a8ca14e105dfc0e868 Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581550832 +0900	commit: save
+972bf129e47478df7290f9a8ca14e105dfc0e868 3d172db167ef37432bc8708611d44db0931eb93c Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581550888 +0900	commit: remove todos
+3d172db167ef37432bc8708611d44db0931eb93c 3d172db167ef37432bc8708611d44db0931eb93c Hyuk Min <hmin@c1r5s6.42seoul.kr> 1581552913 +0900	reset: moving to HEAD

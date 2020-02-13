@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = git@vogsphere.42seoul.kr:vogsphere/intra-uuid-61a45d0e-e320-40b9-8fe8-6b9f538b9a07-3072954
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[remote "gh"]
+	url = https://github.com/JUD210/tmp_bsq.git
+	fetch = +refs/heads/*:refs/remotes/gh/*
